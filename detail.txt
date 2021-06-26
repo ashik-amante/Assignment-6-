@@ -1,0 +1,1 @@
+fixed 5 bugs and added some new features to the website
